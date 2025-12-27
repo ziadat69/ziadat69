@@ -7,7 +7,8 @@
 
 <h1 align="center">🛡️ Welcome to the World of Cybersecurity! I'm Ziadat</h1>
 
-B.Sc. in Computer Science with specialization in IT Security, Networking, and System Administration. A self-motivated professional with expertise in securing, designing, and maintaining modern IT infrastructures.
+B.Sc. in Computer Science with specialization in IT Security, Networking, and System Administration.
+A self-motivated professional with expertise in securing, designing, and maintaining modern IT infrastructures.
 > 🔒 **Specializations**: IT Security (Security++), Cloud Computing (AWS, Oracle), Automation (Ansible).  
 > 🖥️ **Skills**: Linux Administration, Windows Server, Active Directory, and Network Security.  
 > 🌱 **Currently Learning**: Penetration Testing, Bug Hunting, and Red Teaming. 
