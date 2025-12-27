@@ -34,7 +34,7 @@ _________
 
 <p align="center">
   <a href="https://github.com/magicdevstar"><img
-      src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Full-Stack%20Developer;ML%20%26%20Deep%20Learning;Senior%20Software%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+      src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Full-Stack%20Developer;ML%20%26%20Deep%20Learning;Senior%20Cybersecurity%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
