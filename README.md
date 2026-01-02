@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">🛡️ Welcome to the World of Cybersecurity! I'm Ziadat</h1>
+<h1 align="center">🛡️ Welcome to the World of Cybersecurity! 
 
 B.Sc. in Computer Science with specialization in IT Security, Networking, and System Administration.
 A self-motivated professional with expertise in securing, designing, and maintaining modern IT infrastructures.
